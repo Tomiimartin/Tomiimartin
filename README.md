@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Martin</h1>
-<h3>I'm a Web developer student👨‍💻 from Argentina🏆, I'm passionate about technology💻, gym💪 and soccer⚽.</h3>
+<h3 aling-self=center>I'm a Web developer student👨‍💻 from Argentina🏆, I'm passionate about technology💻, gym💪 and soccer⚽.</h3>
 
 ## 🚀 About Me
 I love the path I'm traveling to become a web developer, little by little I will show my progress in my repos and linkedIn
