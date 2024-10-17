@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomas Martin</h1>
 <h3 aling-self=center>I'm a Web developer student👨‍💻 from Argentina🏆, I'm passionate about technology💻, gym💪 and soccer⚽.</h3>
 
-## 🚀 About Me
-I love the path I'm traveling to become a web developer, little by little I will show my progress in my repos and linkedIn
-
-- ⚡ Fun fact... **I discovered programming when one day I saw in a reel📱 that I could create a web letter💌 to give to my girlfriend. Since I created it, I haven't stopped studying...**
-
-- 🔭 I’m currently working on [Project "Parroquia la Merced"](https://github.com/Tomas-Martin-dev/Project-Parroquia-La-Merced-)
-
-
-- 📫 How to reach me **martintomas898@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tomas-igancio-martin-719614306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-igancio-martin-719614306/" height="30" width="40" /></a>
