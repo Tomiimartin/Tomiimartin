@@ -5,7 +5,7 @@ r<h1 align="center">Hi 👋, I'm Tomas Martin</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/tomas-igancio-martin-719614306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-igancio-martin-719614306/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27511756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27511756" height="30" width="40" /></a>
-<a href="https://x.com/ignacio_ma16703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="https://x.com/ignacio_ma16703" height="30" width="40" /></a>
+<a href="https://x.com/ignacio_ma16703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Twitter.svg" alt="https://x.com/ignacio_ma16703" height="30" width="40" /></a>
 </p>
 
 ## 🛠 Skills
