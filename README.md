@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Martin</h1>
-<h3 aling-self=center>I'm a Web developer👨‍💻 from Argentina🏆, I'm passionate about technology💻, gym💪 and soccer⚽.</h3>
+<h3 aling-self=center>I'm a Web developer👨‍💻 from Argentina🏆🌟🌟🌟 .</h3>
 
 <h3 align="left">Connect with me:</h3>  
 
